@@ -17,5 +17,15 @@ public class gugudan {
         System.out.println(number*8);
         System.out.println(number*9);
   
+
+//		int i = 1;
+//		while (i < 10) {
+//		}
+        
+//		for(int i = 1; i <10; i++){
+//		System.out.println(2*i);
+//		}
+        // ÀçÇĞ½À
+        
 	}
 }
