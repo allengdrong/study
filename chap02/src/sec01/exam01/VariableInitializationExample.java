@@ -3,11 +3,12 @@ package sec01.exam01;
 public class VariableInitializationExample {
 
 	public static void main(String[] args) {
-		int value = 30;
+		int hour = 3; 
+		int minute = 5;
+		System.out.println(hour + "½Ã°£ " + minute + "ºÐ");
 		
-		int result = value + 10;
-		
-		System.out.println(result);
+		int totalMinute = hour*60 + minute;
+		System.out.println("ÃÑ " + totalMinute +"ºÐ");
 	}
 
 }
