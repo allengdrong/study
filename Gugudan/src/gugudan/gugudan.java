@@ -4,16 +4,16 @@ import java.util.Scanner;
 
 public class gugudan {
 	public static void main(String[] args) {
-		System.out.println("±¸±¸´Ü Áß Ãâ·ÂÇÒ ´ÜÀº? : ");
+		System.out.println("êµ¬êµ¬ë‹¨ ì´ ì¶œë ¥í•  ë‹¨ìˆ˜ëŠ”? : ");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        System.out.println("»ç¿ëÀÚ°¡ ÀÔ·ÂÇÑ °ª : " + number);
+        System.out.println("ì‚¬ìš©ìê°€ ì…ë ¥í•œ ê°’ : " + number);
         
         if (number < 2) {
-        	System.out.println("°ªÀ» Àß¸ø ÀÔ·ÂÇß½À´Ï´Ù.");
+        	System.out.println("ê°’ì„ ì˜ëª» ì…ë ¥í–ˆìŠµë‹ˆë‹¤.");
         	
         } else if (number > 9) {
-        	System.out.println("°ªÀ» Àß¸ø ÀÔ·ÂÇß½À´Ï´Ù.");
+        	System.out.println("ê°’ì„ ì˜ëª» ì…ë ¥í–ˆìŠµë‹ˆë‹¤.");
         } else {
         
         for(int i = 1; i <10; i++) {
@@ -30,14 +30,14 @@ public class gugudan {
 //        System.out.println(number*7);
 //        System.out.println(number*8);
 //        System.out.println(number*9);
-		//6´Ü
+		//6ë‹¨
 //		int i = 1;
 //		while(i < 10) {
 //
 //			System.out.println(6*i);
 //			i = i + 1;
 //		}
-//		//7´Ü
+//		//7ë‹¨
 //		for(int j = 1; j <10; j++) {
 //			System.out.println(7*j);
 	}
