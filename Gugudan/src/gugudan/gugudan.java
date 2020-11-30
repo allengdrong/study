@@ -13,7 +13,7 @@ public class gugudan {
         	System.out.println("값을 잘못 입력했습니다.");
         	
         } else if (number > 9) {
-        	System.out.println("값을 잘못 입력했습니다.");
+        	System.out.println("값을 잘못 입력했습니다");
         } else {
         
         for(int i = 1; i <10; i++) {
