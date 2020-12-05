@@ -1,5 +1,5 @@
 package test.example;
-	public class testExample {
+	public class TestExample {
 		public static void main(String[]args) {
 			String name = "홍길동";
 			int age = 25;
