@@ -1,14 +1,14 @@
 package sec03.exam01;
 
 /*
- ÀÛ¼ºÀÚ : °í¼±È£
- ÀÛ¼ºÀÏ : 2020.11.23
+ ï¿½Û¼ï¿½ï¿½ï¿½ : ï¿½ï¿½È£
+ ï¿½Û¼ï¿½ï¿½ï¿½ : 2020.11.23
  */
 
 public class Hello {
 
 	public static void main(String[] args) {
-			System.out.println(3+6+ "hello, java" +4+6);
+			System.out.println("hello, java");
 	}
 
 }
