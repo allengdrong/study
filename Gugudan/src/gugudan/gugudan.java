@@ -40,5 +40,6 @@ public class gugudan {
 //		//7단
 //		for(int j = 1; j <10; j++) {
 //			System.out.println(7*j);
+        scanner.close();
 	}
 }
